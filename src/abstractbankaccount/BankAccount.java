@@ -1,6 +1,4 @@
- 
 package abstractbankaccount;
- 
 public abstract class BankAccount {
     protected abstract double calculateInterest(double balance);
         protected double calculateZakat(double balance){
